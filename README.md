@@ -1,1 +1,1 @@
-editor.id.corrector.gui english and american 
+remove tags from a download html page
